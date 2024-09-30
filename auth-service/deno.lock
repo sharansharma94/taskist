@@ -1,0 +1,19 @@
+{
+  "version": "4",
+  "remote": {
+    "https://deno.land/x/mongoose@8.6.4/index.js": "59e21822580047abc5468d740b720d1383fa3569aa2da3ac70325265fbb0e25b",
+    "https://deno.land/x/mongoose@8.7.0/index.js": "59e21822580047abc5468d740b720d1383fa3569aa2da3ac70325265fbb0e25b"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@types/bcryptjs@^2.4.6",
+        "npm:@types/express@5",
+        "npm:@types/jsonwebtoken@^9.0.7",
+        "npm:bcryptjs@^2.4.3",
+        "npm:express@^4.21.0",
+        "npm:jsonwebtoken@^9.0.2"
+      ]
+    }
+  }
+}
